@@ -1,0 +1,28 @@
+{
+  "name": "swager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcavic/Swager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcavic/Swager/issues"
+  },
+  "homepage": "https://github.com/zcavic/Swager#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^1.0.1",
+    "express": "^4.17.3",
+    "lowdb": "^3.0.0",
+    "morgan": "^1.10.0",
+    "nanoid": "^3.3.2",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.3.0"
+  }
+}
